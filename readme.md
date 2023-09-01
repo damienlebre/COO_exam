@@ -11,6 +11,7 @@
 2) Quels sont les composants de ce pattern de conception (indiquez leur nom et leur
    fonction) ?
 le pattern Factory comprend les éléments suivants :
+3) 
                                                     1 Une interface ou classe abstraite qui définis la 
                                                        la méthode de création (Factory).
                                                     
@@ -27,6 +28,7 @@ Le pattern de conception Builder est utilisé pour créer des objets complexes �
 Il permet de construire un objet en décomposant le processus de création en plusieurs étapes distinctes.
 
 En cas d'utilisation on peut imaginer :
+
                                           1 Création d'un personnage dans un jeu vidéo, le pattern Builder
                                             pour créer des personnages de jeu avec des caractéristiques spécifiques,
                                             comme le nom, la classe et les compétences, en spécifiant uniquement ce qui
